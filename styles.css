@@ -1,0 +1,21 @@
+
+
+#button {
+    margin-top: 500px;
+    margin-bottom: 500px;
+    background-color: black;
+    color: blanchedalmond;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 40px;
+    font-size: 18px;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    height: 100%;
+}
